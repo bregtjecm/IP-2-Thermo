@@ -9,7 +9,8 @@ De basis van een goede computer simulatie ligt, net als bij het oplossen van een
 3. Het aangeven van richtingen en noteren van variabelen. 
 
 ```{exercise}
-Als startopdracht modelleren we twee fietsers. Doorloop de bovenstaande drie stappen. 
+Als startopdracht modelleren we twee fietsers. Doorlo+
+op de bovenstaande drie stappen. 
 ```
 
 
